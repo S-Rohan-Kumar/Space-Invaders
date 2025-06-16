@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "background.png;." --add-data "bullet.png;." --add-data "enemy.png;." --add-data "explosion.wav;." --add-data "laser.wav;." --add-data "background.mp3;." --add-data "player.png;." --add-data "ufo.png;." main2.0.py
